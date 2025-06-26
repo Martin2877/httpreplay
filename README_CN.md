@@ -2,6 +2,8 @@
 
 该工具可以从 Excel 文件中提取 HTTP 请求并转换为 GOR 格式进行回放。提供 Python 和 Go 两种实现版本。
 
+[English](README.md) | [简体中文](README_CN.md)
+
 ## 功能特点
 
 - 从 Excel 文件中提取 HTTP 请求

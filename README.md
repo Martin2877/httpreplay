@@ -3,7 +3,8 @@
 
 This tool extracts HTTP requests from an Excel file and converts them to GOR format for replay. It's available in both Python and Go implementations.
 
-[中文说明](README_CN.md)
+[English](README.md) | [简体中文](README_CN.md)
+
 
 ## Features
 
